@@ -31,4 +31,4 @@ Make sure you have the following prerequisites installed before running the scri
 3. Run the script using the following command:
 
    ```shell
-   python web_scraper.py
+   python main.py
